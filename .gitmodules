@@ -1,0 +1,3 @@
+[submodule "rtk-query-demo"]
+	path = rtk-query-demo
+	url = git@github.com:anujkumarnath/rtk-query-demo.git
