@@ -1,3 +1,6 @@
 [submodule "rtk-query-demo"]
 	path = rtk-query-demo
 	url = git@github.com:anujkumarnath/rtk-query-demo.git
+[submodule "user-service"]
+	path = user-service
+	url = git@github.com:anujkumarnath/user-service.git
